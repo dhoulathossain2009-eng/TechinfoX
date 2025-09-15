@@ -56,13 +56,13 @@
     </tr>
     <tr>
       <td class="main" rowspan="2">Battery</td>
-      <td>	Si/C Li-Ion 6550 mAh</td></tr>
+      <td>	Si/C Li-Ion 6550 mAh</td>
+      </tr>
     <tr>
       <td>90W wired, PD3.0, QC3+</td>
     </tr>
-    </tr>
       </tbody>
-     </thead></table>
-      <p id="currentTime"></p>
-      <script src="script.js"></script>
+     </thead>
+     </table>
   </body>
+  </html>
